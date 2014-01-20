@@ -1,7 +1,7 @@
 
 
 This archive contains the distribution Plack-Middleware-AdaptFilehandleRead,
-version 0.001:
+version 0.002:
 
   Let you use a filehandle in the response body that has ->read but not ->getline
 
