@@ -25,4 +25,4 @@ resources:
   bugtracker: https://github.com/jjn1056/Plack-Middleware-AdaptFilehandleRead/issues
   homepage: https://github.com/jjn1056/Plack-Middleware-AdaptFilehandleRead
   repository: https://github.com/jjn1056/Plack-Middleware-AdaptFilehandleRead.git
-version: 0.002
+version: 0.003
